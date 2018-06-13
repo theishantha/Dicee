@@ -5,4 +5,4 @@
 ----------
 
 
-###### The Basic iOS Game application
+###### The Basic iOS Game Application
