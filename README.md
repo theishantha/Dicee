@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/theishantha/Dicee/blob/master/Dicee/Assets.xcassets/Icon%20on%20Readme.imageset/Icon%20on%20Readme.png" width="200px" height="200px"/>
+  <img src="https://github.com/theishantha/Dicee/blob/master/Dicee/Assets.xcassets/Icon%20on%20Readme.imageset/Icon%20on%20Readme.png" width="200px" height="auto"/>
 </p>
 
 ----------
