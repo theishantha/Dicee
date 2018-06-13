@@ -1,2 +1,3 @@
 # Dicee
-The Basic Application for understanding Swift4 Syntax  
+Roll the Dice
+###### The Basic Application for Understanding Swift4 Fundamentals.
