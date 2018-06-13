@@ -4,4 +4,5 @@
 
 ----------
 
-###### The Basic Application for Understanding Swift4 Fundamentals.
+
+###### The Basic iOS Game application
