@@ -29,7 +29,8 @@ class ViewController: UIViewController {
     }
 
     @IBAction func rollButtonPressed(_ sender: UIButton) {
-        
+            randomDiceIndex1 = arc4random_uniform(6)
+            randomDiceIndex2 = arc4random_uniform(6)
     }
     
 }
