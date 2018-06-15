@@ -28,9 +28,9 @@
 
 <p align="center">
 <img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/3.png" width="auto" height="auto"/>
-  [ motionEnded function](https://developer.apple.com/documentation/uikit/uiresponder/1621090-motionended)
 </p>
 
+[motionEnded(_:with:)](https://developer.apple.com/documentation/uikit/uiresponder/1621090-motionended)
 
 
 <h2 align="">Reffernce</h2>
