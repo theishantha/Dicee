@@ -7,8 +7,8 @@
 ###### The iOS Game Application for Basic Logic Testing 
 
 <br></br>
-
-### App icon Preview
+ 
+<h2 align="center">App icon Preview</h2>
 
 <p align="center">
 <img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/1.png" width="500px" height="auto"/>
