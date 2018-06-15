@@ -4,10 +4,36 @@
 
 ----------
 
+###### The iOS Game Application for Basic Logic Testing 
+
 <br></br>
 
-###### The iOS Game Application for Basic Logic Testing 
+### App icon Preview
 
 <p align="center">
 <img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/1.png" width="500px" height="auto"/>
 </p>
+
+<br></br>
+
+### App Preview
+
+<p align="center">
+<img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/2.png" width="500px" height="auto"/>
+</p>
+
+<br></br>
+
+**motionEnded() function used for creating motionshake feature
+
+<p align="center">
+<img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/3.png" width="auto" height="auto"/>
+  [motionEnded(_:with:)](https://developer.apple.com/documentation/uikit/uiresponder/1621090-motionended)
+</p>
+
+
+**Reffernce
+
+[Apple Developer Doc](https://developer.apple.com/documentation)
+
+ 
