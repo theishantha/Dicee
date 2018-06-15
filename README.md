@@ -30,7 +30,7 @@
 
 <p align="center">
 <img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/3.png" width="auto" height="auto"/>
-  [motionEnded(_:with:)](https://developer.apple.com/documentation/uikit/uiresponder/1621090-motionended)
+  [ motionEnded function](https://developer.apple.com/documentation/uikit/uiresponder/1621090-motionended)
 </p>
 
 
