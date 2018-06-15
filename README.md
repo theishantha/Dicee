@@ -8,7 +8,7 @@
 <h2 align="">App icon Preview</h2>
 
 <p align="center">
-<img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/1.png" width="500px" height="auto"/>
+<img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/1.png" width="400px" height="auto"/>
 </p>
 
 <br></br>
@@ -17,7 +17,7 @@
 <h2 align="">App Preview</h2>
 
 <p align="center">
-<img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/2.png" width="500px" height="auto"/>
+<img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/2.png" width="400px" height="auto"/>
 </p>
 
 <br></br>
