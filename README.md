@@ -6,3 +6,7 @@
 
 
 ###### The iOS Game Application for Basic Logic Testing 
+
+<p align="center">
+<img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/1.png" width="600px" height="auto"/>
+</p>
