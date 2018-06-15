@@ -5,4 +5,4 @@
 ----------
 
 
-###### The Basic iOS Game Application
+###### The iOS Game Application for Basic Logic Testing 
