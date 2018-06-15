@@ -32,7 +32,11 @@ class ViewController: UIViewController {
             randomDiceIndex1 = Int(arc4random_uniform(6))
             randomDiceIndex2 = Int(arc4random_uniform(6))
         
-            print(randomDiceIndex2)
+            print(randomDiceIndex1)
+        
+            diceImageView1.image = UIImage(named: "dice2")
+            
+
     }
     
 }
