@@ -4,7 +4,6 @@
 
 ###### The iOS Game Application for Basic Logic Testing 
 
-<br></br>
  
 <h2 align="">App icon Preview</h2>
 
