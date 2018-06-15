@@ -16,7 +16,8 @@
 
 <br></br>
 
-### App Preview
+
+<h2 align="">App Preview</h2>
 
 <p align="center">
 <img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/2.png" width="500px" height="auto"/>
@@ -24,7 +25,8 @@
 
 <br></br>
 
-**motionEnded() function used for creating motionshake feature
+<h2 align="">motionEnded() function used for creating motionshake feature</h2>
+
 
 <p align="center">
 <img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/3.png" width="auto" height="auto"/>
@@ -32,7 +34,8 @@
 </p>
 
 
-**Reffernce
+
+<h2 align="">Reffernce</h2>
 
 [Apple Developer Doc](https://developer.apple.com/documentation)
 
