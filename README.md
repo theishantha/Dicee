@@ -8,7 +8,7 @@
 
 <br></br>
  
-<h2 align="center">App icon Preview</h2>
+<h2 align="">App icon Preview</h2>
 
 <p align="center">
 <img src="https://github.com/theishantha/Dicee/blob/master/image%20previews/1.png" width="500px" height="auto"/>
